@@ -6,7 +6,8 @@
 # Dataset
 * We trained our model with a downsampled version of [Adience dataset](https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification)
 
-# Model ![model_plot](https://user-images.githubusercontent.com/63467016/119136358-2f1bad80-ba5d-11eb-867d-2d9ee28ddea8.p![model_plot](https://user-images.githubusercontent.com/63467016/119136408-3f338d00-ba5d-11eb-8cce-e3ba698b1460.png)
-ng)
+# Model
+[model_plot](https://user-images.githubusercontent.com/63467016/119136408-3f338d00-ba5d-11eb-8cce-e3ba698b1460.png)
 
 
+![model_plot](https://user-images.githubusercontent.com/63467016/119136527-6722f080-ba5d-11eb-981e-f95cee4b677a.png)
